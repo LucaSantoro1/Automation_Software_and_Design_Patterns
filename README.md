@@ -12,6 +12,8 @@ The assembly line is composed by four different stations: DISTRIBUTION SECTION -
 HMI with which the user can interface itself with the machine. In particular the user can see the current state of the machine, the relevant informations, alarms, the actual fault and a fault History. Finally there are also various leds and displays to give other user useful informations about the machine such as the position of the pieces among the stations, the configuration and the whareouses availability, but also the number of completed pieces and discarded pieces.
 
 3) ***Simulations***
+
+
 GOOD PIECES:
 https://github.com/LucaSantoro1/Automation_Software_and_Design_Patterns/assets/113595229/7733f40e-e809-46d6-99dd-541b0ba6fe70
 
